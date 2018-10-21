@@ -13,13 +13,10 @@ My research projects are detailed below.
 
 ### Turbomachinery dimension reduction
 
-
-
-- - -
-
 ### Measurement uncertainty quantification
 
+### Quadrature strategies for polynomial approximation
 
+### Polynomial regression in data science
 
-- - -
 

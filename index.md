@@ -10,11 +10,11 @@ I'm a postdoctoral fellow at the Department of Engineering, University of Cambri
 
 More broadly, my interests include:
 
-- dimension reduction
-- measurement uncertainty quantification
-- polynomial approximations
-- applications in turbomachinery design and manufacturing
+- dimension reduction algorithms
+- measurement uncertainty quantification techniques
+- constructing stable polynomial approximations
+- dimension reduction in turbomachinery design and manufacturing
 
-
+I am the founder and lead developer of the `Effective Quadratures [!www.effective-quadratures.org]__' open-source project. 
 
 {% include paginator.html %}
