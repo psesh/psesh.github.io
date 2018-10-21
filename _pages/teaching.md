@@ -8,4 +8,6 @@ permalink: /teaching.html
 
 
 ## Teaching
-- 
+- Thermofluids
+- Linear Algebra
+- Mathematical methods in optimization

@@ -7,5 +7,5 @@ permalink: /talks.html
 ---
 
 
-## Inivted Talks.
+## Invited Talks.
 - blah
