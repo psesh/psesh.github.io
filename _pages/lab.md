@@ -3,7 +3,7 @@ title: "The Lab"
 layout: single
 excerpt: "Lab details"
 sitemap: true
-permalink: /talks.html
+permalink: /lab.html
 ---
 
 
