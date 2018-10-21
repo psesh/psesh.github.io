@@ -17,4 +17,6 @@ More broadly, my interests include:
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
+I am currently organizing the Cambridge Linear Algebra Seminar Series (CLASS): a two-and-a-half day series of seminars on topics in numerical linear algebra. This year the focus of our seminars is *Solving Ax=b*. Registration and seminar details can be found at the [CLASS website](https://www.cambridge-class.org). 
+
 {% include paginator.html %}
