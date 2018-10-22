@@ -7,7 +7,7 @@ permalink: /teaching.html
 ---
 
 
-## Teaching
-- Thermofluids
-- Linear Algebra
-- Mathematical methods in optimization
+## Teaching (Cambridge)
+- Thermofluids 2P4
+- Linear Algebra 1P7
+- Mathematical methods in optimization 3M1

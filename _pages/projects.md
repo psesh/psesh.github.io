@@ -8,9 +8,6 @@ permalink: /projects.html
 
 My research projects are detailed below.
 
-
-## Research projects
-
 ### Turbomachinery dimension reduction
 
 ### Measurement uncertainty quantification
