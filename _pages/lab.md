@@ -6,10 +6,10 @@ sitemap: true
 permalink: /lab.html
 ---
 
-My group is split between the [University of Cambridge](https://www.cam.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk) in London. Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
+My group is split between the [University of Cambridge](https://www.cam.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk). Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
 
 ## Members.
-![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/jonny.jpg "Johnanthan Mak" ){:width="95" height="95"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/nick.jpg "Nicholas Wong" ){:width="95" height="95"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/irene.jpg "Irene Virdis"){:width="95" height="95"}
+![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/group.jpg "Group" ){:width="125" height="125"} 
 
 - **Johnanthan Mak**, *Postdoctoral Fellow*
 Working on using polynomial approximations to solve problems that have been typically associated with neural networks. These include image recognition and modelling locally varying data (e.g., house prices). The advantage in using polynomial regression is the relative reduction in training data required.
