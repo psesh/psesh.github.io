@@ -1,5 +1,5 @@
 ---
-title: "The Lab - Pranay Seshadri"
+title: "The Lab"
 layout: single
 excerpt: "Lab details"
 sitemap: true
@@ -9,14 +9,15 @@ permalink: /lab.html
 My group is split between the University of Cambridge and the Alan Turing Institute in London. Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
 
 ## Members.
-- ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/jonny.jpg "Johnanthan Mak" ){:height="95" width="108"} **Johnanthan Mak**, *Postdoctoral Fellow*
+![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/jonny.jpg "Johnanthan Mak" ){:height="95" width="108"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/nick.jpg "Nicholas Wong" ){:height="95" width="108"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/irene.jpg "Irene Virdis"){:height="95" width="108"}
+
+- **Johnanthan Mak**, *Postdoctoral Fellow*
 Working on using polynomial approximations to solve problems that have been typically associated with neural networks. These include image recognition and modelling locally varying data (e.g., house prices). The advantage in using polynomial regression is the relative reduction in training data required.
 
-- ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/nick.jpg "Nicholas Wong" ){:height="95" width="108"} **Nicholas Wong**, *PhD student*
+- **Nicholas Wong**, *PhD student*
 Joinly advised with Geoff Parks. Nicholas is working on dimension reduction strategies for gaining new insights into manufacturing blades. He was previously a Masters student with us and worked on compressive sensing methods for polynomial approximations. 
 
-- ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/irene.jpg "Irene Virdis"){:height="95" width="108"}
-**Irene Virdis**, *Visiting PhD student*
+- **Irene Virdis**, *Visiting PhD student*
 Joinly advised with Tiziano Ghisu. Irene is studying various strategies for generating correlated quadrature rules for aleatory uncertainty quantification in numerical simulations of turbine blades. 
 
 ## Former Members.

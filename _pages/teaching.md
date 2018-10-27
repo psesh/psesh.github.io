@@ -1,5 +1,5 @@
 ---
-title: "Teaching - Pranay Seshadri"
+title: "Teaching"
 layout: single
 excerpt: "Teaching"
 sitemap: true

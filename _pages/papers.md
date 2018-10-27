@@ -1,5 +1,5 @@
 ---
-title: "Publications - Pranay Seshadri"
+title: "Publications"
 layout: single
 excerpt: "List of publications."
 sitemap: true

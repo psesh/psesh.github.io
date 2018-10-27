@@ -1,5 +1,5 @@
 ---
-title: "Bio - Pranay Seshadri"
+title: "Bio"
 layout: single
 author_profile: true
 ---
