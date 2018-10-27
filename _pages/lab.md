@@ -6,7 +6,7 @@ sitemap: true
 permalink: /lab.html
 ---
 
-My group is split between the University of Cambridge and the Alan Turing Institute in London. Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
+My group is split between the [University of Cambridge](https://www.cam.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk) in London. Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
 
 ## Members.
 ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/jonny.jpg "Johnanthan Mak" ){:height="95" width="108"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/nick.jpg "Nicholas Wong" ){:height="95" width="108"} ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/irene.jpg "Irene Virdis"){:height="95" width="108"}
