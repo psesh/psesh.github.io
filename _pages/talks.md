@@ -22,7 +22,7 @@ permalink: /talks.html
 
 - University of Liverpool, Liverpool, England. "Dimension reduction investigations in turbomachinery: Opportunities for uncertainty quantification and design under uncertainty". February 27th, 2018.
 
-- NAFEMS (Online). "Turbomachinery active subspace performance maps". April 24th, 2017.[Slides.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiAn8Hm55reAhUMAcAKHbUjAvYQFjAAegQIBBAC&url=https%3A%2F%2Fwww.nafems.org%2Fdownloads%2Fresource_center%2Fw_apr_17_uk_1_1.pdf%2F&usg=AOvVaw34lONUEFVMeszqcYb6uyXx)
+- NAFEMS (Online). "Turbomachinery active subspace performance maps". April 24th, 2017. [Slides.](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiAn8Hm55reAhUMAcAKHbUjAvYQFjAAegQIBBAC&url=https%3A%2F%2Fwww.nafems.org%2Fdownloads%2Fresource_center%2Fw_apr_17_uk_1_1.pdf%2F&usg=AOvVaw34lONUEFVMeszqcYb6uyXx)
 
 - Stanford University, Stanford, California, U. S. A. "Effective Quadratures: polynomial approximations for computational engineering studies". October 31st 2016.
 
