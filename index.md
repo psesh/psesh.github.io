@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a postdoctoral fellow at the Department of Engineering, University of Cambridge. I am also a Group Leader in the Data-Centric Engineering Programme at the Alan Turing Institute. I trained as a computational engineer with a focus in aerodynamics. 
+I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. 
 
 More broadly, my interests include:
 
