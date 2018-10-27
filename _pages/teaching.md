@@ -1,7 +1,7 @@
 ---
-title: "Teaching and Mentoring"
+title: "Teaching - Pranay Seshadri"
 layout: single
-excerpt: "Teaching and mentoring activity"
+excerpt: "Teaching"
 sitemap: true
 permalink: /teaching.html
 ---

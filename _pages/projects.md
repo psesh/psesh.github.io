@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Projects - Pranay Seshadri"
 layout: single
 excerpt: "List of projects."
 sitemap: true

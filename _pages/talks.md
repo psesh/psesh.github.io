@@ -1,5 +1,5 @@
 ---
-title: "Talks and Posters"
+title: "Talks - Pranay Seshadri"
 layout: single
 excerpt: "List of academic talks and posters"
 sitemap: true

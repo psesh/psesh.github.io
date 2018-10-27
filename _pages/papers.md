@@ -1,11 +1,10 @@
 ---
-title: "Publications"
+title: "Publications - Pranay Seshadri"
 layout: single
-excerpt: "List of academic publications."
+excerpt: "List of publications."
 sitemap: true
 permalink: /papers.html
 ---
-
 
 ## Publications
 For a full list of my publications, please see my [Google scholar page.](https://scholar.google.co.uk/citations?hl=en&user=DwcnM0MAAAAJ&view_op=list_works)
