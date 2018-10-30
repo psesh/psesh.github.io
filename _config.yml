@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : " "
+title                    : "Pranay Seshadri"
 title_separator          : " "
 name                     : "Pranay Seshadri"
 description              : "The personal website of Pranay Seshadri."
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "pranay.seshadri"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
