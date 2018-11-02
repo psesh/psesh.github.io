@@ -8,7 +8,7 @@ author_profile: true
 
 I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. 
 
-More specifically, my interests include:
+More specifically, my research interests include:
 
 - dimension reduction algorithms
 - measurement uncertainty quantification techniques
