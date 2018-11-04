@@ -6,7 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. My research broadly falls within aerospace data-centric engineering: applying and developing new statistical methods to aerospace data-sets for better inference and decision-making. 
+I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. 
+
+My research broadly falls within the remit of aerospace data-centric engineering: applying existing (and developing novel) data-driven methods to aerospace data-sets for better inference and decision-making. 
 
 More specifically, my research interests include:
 
