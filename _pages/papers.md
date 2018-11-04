@@ -13,7 +13,7 @@ For a full list of my publications, please see my [Google scholar page.](https:/
 
 - **Seshadri, P.**, Thorne, G., Simpson, D., Parks, G., (2018) "Supervised Learning of Engine Temperature Measurements Part II: Uncertainty Quantification".
 
-- Yuchi, S., **Seshadri, P.**, Parks, G., Shahpar, S., (2018) "Supporting multi-point turbomachinery dimension reduction with polynomial variable projection". Under review. AIAA JPP. [Preprint.](https://speakerdeck.com/psesh/polynomial-uncertainty-quantification-in-the-age-of-ai)
+- Yuchi, S., **Seshadri, P.**, Parks, G., Shahpar, S., (2018) "Supporting multi-point turbomachinery dimension reduction with polynomial variable projection". Under review. AIAA JPP. [Preprint.](https://www.researchgate.net/profile/Pranay_Seshadri2/publication/327834325_Supporting_Multi-point_Turbomachinery_Dimension_Reduction_via_Polynomial-based_Variable_Projection/links/5ba92b25299bf13e60491010/Supporting-Multi-point-Turbomachinery-Dimension-Reduction-via-Polynomial-based-Variable-Projection.pdf?_sg%5B0%5D=GNpWiy44veQRzVAjw36-60ApnTDxTmRLndBc7MBRbppf4mFbtU2dK4aVstKgyzNFLqH9SR2kLeSXtN-afwfTqw.dYPlA6OYa8DVSirZ5LEQdS24eY5Bdsc26jHI0kTrFUSPews_Maf_e46ascPk-R0RnOJkCAnFqpZxSzG9kBms6A&_sg%5B1%5D=fUBhjUquc22Brn47-2OyfsMV2MS8fOdk1lpfCGSEFIF9EvB1FI4aky63beecXenxVqscb1vEscqA0fXgWxc39eDM71yMwamGS_GtMUx3diXq.dYPlA6OYa8DVSirZ5LEQdS24eY5Bdsc26jHI0kTrFUSPews_Maf_e46ascPk-R0RnOJkCAnFqpZxSzG9kBms6A&_iepl=)
 
 - Wong, N., **Seshadri, P.**, Parks, G., (2018) "An investigation into Monte Carlo filtering and condition skewness".
 
