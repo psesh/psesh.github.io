@@ -12,7 +12,7 @@ My group is split between the [University of Cambridge](https://www.cam.ac.uk) a
 ![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/group.jpg "Group" ){:width="500" height="500" align="center"} 
 
 - **Johnanthan Mak**, *Postdoctoral Fellow.*
-Working on using polynomial approximations to solve problems that have been typically associated with neural networks. These include image recognition and modelling locally varying data (e.g., house prices). The advantage in using polynomial regression is the relative reduction in training data required.
+Jonny is working on using polynomial approximations to solve problems that have been typically associated with neural networks. These include image recognition and modelling locally varying data. The advantage in using polynomial regression is the relative reduction in training data required.
 
 - **Nicholas Wong**, *PhD student.*
 Joinly advised with Geoff Parks. Nicholas is working on dimension reduction strategies for gaining new insights into manufacturing blades. He was previously a Masters student with us and worked on compressive sensing methods for polynomial approximations. 

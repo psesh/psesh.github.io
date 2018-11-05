@@ -8,14 +8,14 @@ author_profile: true
 
 I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. 
 
-My research area is *aerospace data-centric engineering*: applying existing, and developing novel data-driven algorithms and computational heuristics, to aerospace data-sets for better inference and decision-making. 
+My research area is *aerospace data-centric engineering*: applying existing, and developing novel data-driven algorithms and computational heuristics to aerospace data for better inference and decision-making. 
 
 More specifically, my research interests include:
 
 - subspace-based dimension reduction algorithms 
-- measurement uncertainty quantification techniques for engine data-sets
-- constructing global and local stable polynomial approximations 
+- measurement uncertainty quantification techniques in aerospace
 - dimension reduction aided pedigree rules in turbomachinery design and manufacturing
+- constructing global and local polynomial approximations for aerospace models
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
