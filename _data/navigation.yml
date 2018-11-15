@@ -15,8 +15,8 @@ main:
   - title: "Talks"
     url: https://psesh.github.io/talks.html
 
-  - title: "Teaching"
-    url: https://psesh.github.io/teaching.html
+  - title: "CV"
+    url: https://raw.githubusercontent.com/psesh/psesh.github.io/master/docs/vita.pdf
 
   - title: "Education"
     url: https://psesh.github.io/education.html
