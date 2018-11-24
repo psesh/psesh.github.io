@@ -11,13 +11,12 @@ I'm a postdoctoral fellow at the [Department of Engineering, University of Cambr
 My research area is *aerospace data-centric engineering*: applying existing, and developing novel data-driven algorithms and computational heuristics in **dimension reduction**, **uncertainty quantification** and **machine learning** to aerospace data for better inference and decision-making. 
 
 More specifically, my research interests include:
-- studying experimental uncertainty quantification methods for instrumentation
-- developing subspace-based dimension reduction algorithms 
-- identifying dimension reduction aided pedigree rules in turbomachinery design and manufacturing
-- constructing global and local polynomial approximations for aerospace models
+- developing subspace-based dimension reduction algorithms and heuristics
+- identifying dimension reduction aided pedigree rules in aerodynamic design and manufacturing
+- statistical inference on aerospace experimental datasets 
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
-I am currently organizing the Cambridge Linear Algebra Seminar Series (CLASS): a two-and-a-half day series of seminars on topics in numerical linear algebra. This year the focus of our seminars is *Solving Ax=b*. Registration and seminar details can be found at the [CLASS website](https://www.cambridge-class.org). 
+I just wrapped up the Cambridge Linear Algebra Seminar Series (CLASS) 2018. This year the focus of our seminars was on *Solving Ax=b*; details can be found at the [CLASS website](https://www.cambridge-class.org). Stay tuned for CLASS2019 which will be on *Polynomials, splines and neural networks*.
 
 {% include paginator.html %}
