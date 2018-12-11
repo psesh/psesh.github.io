@@ -9,7 +9,6 @@ permalink: /lab.html
 My group is split between the [University of Cambridge](https://www.cam.ac.uk) and the [Alan Turing Institute](https://www.turing.ac.uk). Our research output is usually aimed at solving a pertinent aerospace problem by developing new (or using existing) computational methods in uncertainty quantification, optimization and machine learning. 
 
 ## Members.
-![alt text](https://raw.githubusercontent.com/psesh/psesh.github.io/master/images/group.jpg "Group" ){:width="500" height="500" align="center"} 
 
 - **Johnanthan Mak**, *Postdoctoral Fellow.*
 Jonny is working on using polynomial approximations to solve problems that have been typically associated with neural networks. These include image recognition and modelling locally varying data. The advantage in using polynomial regression is the relative reduction in training data required.
@@ -19,6 +18,10 @@ Joinly advised with Geoff Parks. Nicholas is working on dimension reduction stra
 
 - **Irene Virdis**, *Visiting PhD student.*
 Joinly advised with Tiziano Ghisu. Irene is studying various strategies for generating correlated quadrature rules for aleatory uncertainty quantification in numerical simulations of turbine blades. 
+
+- **James Gross**, *PhD student.*
+Joinly advised with Geoff Parks and Timoleon Kipouros. James is working on techniques for polynomial minimization using sum of squares methods. This framework facilitates rapid computation of minima for polynomial surrogates. 
+
 
 ## Former Members.
 - **Henry Yuchi**, *Former masters student, Currently PhD student in Georgia Tech.*
