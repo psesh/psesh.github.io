@@ -6,6 +6,8 @@ sitemap: true
 permalink: /talks.html
 ---
 
+- AIAA SciTech, San Diego, California. "Exploring aerospace design in virtual reality with dimension reduction". January 12th 2019. [Slides.](https://speakerdeck.com/psesh/exploring-aerospace-design-in-virtual-reality-with-dimension-reduction)
+
 - Von Karman Institute, Saint-Genesius-Rode, Belgium. "Polynomial uncertainty quantification in the age of AI". October 17th 2018. [Slides.](https://speakerdeck.com/psesh/polynomial-uncertainty-quantification-in-the-age-of-ai)
 
 - The Alan Turing Institute, London, England. "Data-centric engineering in aero-engines". September 5th 2018. [Video.](https://www.youtube.com/watch?v=ZTzyWkdQMjg)
