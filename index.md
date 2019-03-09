@@ -15,6 +15,11 @@ My current research projects include:
 - Manifold learning for dimension reduction in turbomachinery design;
 - Image classification using sparse data.
 
+For an overview of my research, do check a talk I gave at the Alan Turing Institute:
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ZTzyWkdQMjg" frameborder="0" allowfullscreen></iframe>
+
+
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
 I am the director of the Cambridge Linear Algebra Seminar Series (CLASS) 2018. Last year the focus of our seminars was on *Solving Ax=b*; details can be found at the [CLASS website](https://www.cambridge-class.org). Stay tuned for CLASS2019 which will be on *Polynomials, splines and neural networks*.
