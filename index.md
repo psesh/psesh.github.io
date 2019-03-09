@@ -17,8 +17,7 @@ My current research projects include:
 
 For an overview of my research, do check a talk I gave at the Alan Turing Institute:
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ZTzyWkdQMjg" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ZTzyWkdQMjg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
