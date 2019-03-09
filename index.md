@@ -6,14 +6,14 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in aerodynamics. 
+I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in turbomachinery aerodynamics. 
 
-My research area is *aerospace data-centric engineering*: applying existing, and developing novel data-driven algorithms and computational heuristics in **dimension reduction**, **uncertainty quantification** and **machine learning** to aerospace data for better inference and decision-making. 
+I undertake research in *data-centric aeronautics*: applying existing, and developing novel data-driven algorithms and computational heuristics in **aeronautics** and **machine learning** for turbomachinery data-sets for better inference and decision-making. My research interests vary from statistical theory, numerical analysis to turbomachinery applications.
 
 More specifically, my research interests include:
-- developing subspace-based dimension reduction algorithms and heuristics
-- identifying dimension reduction aided pedigree rules in aerodynamic design and manufacturing
-- statistical inference on aerospace experimental datasets 
+- Bayesian regression for thermodynamic spatial field approximation
+- Manifold learning for dimension reduction in turbomachinery design
+- Image classification using sparse data
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 

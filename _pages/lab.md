@@ -20,7 +20,7 @@ Joinly advised with Geoff Parks. Nicholas is working on dimension reduction stra
 Joinly advised with Tiziano Ghisu. Irene is studying various strategies for generating correlated quadrature rules for aleatory uncertainty quantification in numerical simulations of turbine blades. 
 
 - **James Gross**, *PhD student.*
-Joinly advised with Geoff Parks and Timoleon Kipouros. James is working on techniques for polynomial minimization using sum of squares methods. This framework facilitates rapid computation of minima for polynomial surrogates. 
+Joinly advised with Geoff Parks. James is working on techniques for polynomial minimization using sum of squares methods. This framework facilitates rapid computation of minima for polynomial surrogates. 
 
 
 ## Former Members.
