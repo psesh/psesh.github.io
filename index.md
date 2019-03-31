@@ -11,15 +11,16 @@ I'm a postdoctoral fellow at the [Department of Engineering, University of Cambr
 I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical analysis to turbomachinery applications.
 
 My current research projects include:
-- Bayesian regression for engine thermodynamic spatial field approximation;
+- Gaussian process models for engine thermodynamic spatial field approximation;
 - Manifold learning for dimension reduction in turbomachinery design;
-- Polynomial techniques in macnine learning.
+- Polynomial techniques for optimization and sensitivity analysis for CFD data-sets.
 
-Check out the video below for more info:
+Sound interesting? Then check out the video below:
 
 <iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
 
-I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
+
+I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials! The Effective Quadratures 2019 Workshop is on July 1st 2019! [Click here for more details.](https://www.effective-quadratures.org/workshop2019)
 
 I am the director of the Cambridge Linear Algebra Seminar Series (CLASS) 2018. Last year the focus of our seminars was on *Solving Ax=b*; details can be found at the [CLASS website](https://www.cambridge-class.org). Stay tuned for CLASS2019 which will be on *Polynomials, splines and neural networks*.
 

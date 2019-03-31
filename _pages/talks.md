@@ -6,6 +6,8 @@ sitemap: true
 permalink: /talks.html
 ---
 
+- Ecole Polytechnique Federale de Lausanne, Switzerland. "Aerodynamic design insight in the age of data". February 13th 2019.
+
 - AIAA SciTech, San Diego, California. "Exploring aerospace design in virtual reality with dimension reduction". January 12th 2019. [Slides.](https://speakerdeck.com/psesh/exploring-aerospace-design-in-virtual-reality-with-dimension-reduction)
 
 - Von Karman Institute, Saint-Genesius-Rode, Belgium. "Polynomial uncertainty quantification in the age of AI". October 17th 2018. [Slides.](https://speakerdeck.com/psesh/polynomial-uncertainty-quantification-in-the-age-of-ai)
