@@ -6,9 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). I trained as a computational engineer with a focus in turbomachinery aerodynamics. 
+I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). Most of my research is funded by [Rolls-Royce plc](https://www.rolls-royce.com). 
 
-I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical analysis to turbomachinery applications.
+I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery aerothermodynamics** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical linear algebra to turbomachinery applications.
 
 My current research projects include:
 - Gaussian process models for engine thermodynamic spatial field approximation;
