@@ -13,7 +13,11 @@ I undertake research in *data-centric aeronautics*: applying existing, and devel
 My current research projects include:
 - Bayesian regression for engine thermodynamic spatial field approximation;
 - Manifold learning for dimension reduction in turbomachinery design;
-- Image classification using sparse data.
+- Polynomial techniques in macnine learning.
+
+Check out the video below for more info:
+
+<iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
 
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials!
 
