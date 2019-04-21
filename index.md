@@ -24,7 +24,7 @@ Sound interesting? Then check out the video below:
 I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials! The Effective Quadratures 2019 Workshop is on July 1st 2019! [Click here for more details.](https://www.effective-quadratures.org/workshop2019)
 
 <h3>International Workshop on Data-Centric Engineering</h3>
-I am one of the organizing chairs of the [International Workshop on Data-Centric Engineering](https://www.dceworkshop.org). The aim of this workshop is to put together a unified vision for how data-centric methods can empower engineering research. The workshop will be held at the Massachusetts Institute of Technology from 9-12 of December 2019.
+I am one of the organizing chairs of the [International Workshop on Data-Centric Engineering](https://dceworkshop.org). The aim of this workshop is to put together a unified vision for how data-centric methods can empower engineering research. The workshop will be held at the Massachusetts Institute of Technology from 9-12 of December 2019.
 
 <h3>CLASS</h3>
 I am the director of the Cambridge Linear Algebra Seminar Series (CLASS) 2018. Last year the focus of our seminars was on *Solving Ax=b*; details can be found at the [CLASS website](https://www.cambridge-class.org). Stay tuned for CLASS2019 which will be on *Polynomials, splines and neural networks*.
