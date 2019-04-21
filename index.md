@@ -15,21 +15,21 @@ feature_row:
     alt: "Aerobayes"
     title: "Bayesian spatial models from engine sensor measurements"
     excerpt: "Understanding aeroengine aerothermodynamics by generating spatial fields of temperature and pressure based on sensor measurements."
-    btn_label: "Read More"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
   - image_path: dr.jpg
     alt: "Subspace-based dimension reduction"
-    title: "Dimension reduction in blade aerodynamic design"
-    excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for aerodynamic design."
+    title: "Dimension reduction in blade aerodynamics"
+    excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Read more"
     btn_class: "btn--primary"
   - image_path: polynomials.jpg
     title: "Polynomial approximations for machine learning"
     excerpt: "Leveraging polynomial approximations via least squares, compressive sensing and numerical integration rules for statistical inference, design guidance and learning."
     btn_label: "Explore project"
     btn_class: "btn--primary"
-    url: "www.effective-quadratures.org"
+    url: https://www.effective-quadratures.org
 ---
 
 {% include feature_row id="intro" type="center" %}
