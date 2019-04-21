@@ -1,11 +1,21 @@
 ---
-title: "Talks"
+title: "Workshops and talks"
 layout: single
 excerpt: "List of academic talks and posters"
 sitemap: true
 permalink: /talks.html
 ---
+## Research overview talk.
+This is a talk I gave at the Alan Turing Institute on **data-centric engineering in aeroengines**.
 
+<iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
+
+## Upcoming organized workshops.
+- The Effective Quadratures Workshop 2019, July 1st, 2019. For details, see: [Link.](https://www.effective-quadratures.org/workshop2019); lead organizer.
+
+- Internation Workshop on Data-Centric Engineering, December 9th-12th, 2019. For details, see[Link.](https://dceworkshop.org); organizing committee co-chair.
+ 
+## Talks.
 - Ecole Polytechnique Federale de Lausanne, Switzerland. "Aerodynamic design insight in the age of data". February 13th 2019.
 
 - AIAA SciTech, San Diego, California. "Exploring aerospace design in virtual reality with dimension reduction". January 12th 2019. [Slides.](https://speakerdeck.com/psesh/exploring-aerospace-design-in-virtual-reality-with-dimension-reduction)
