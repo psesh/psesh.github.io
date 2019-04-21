@@ -4,7 +4,7 @@ layout: splash
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.3"
   overlay_image: engine.jpg
 excerpt: "I'm a postdoctoral fellow at the Department of Engineering, University of Cambridge and also a Group Leader in the Data-Centric Engineering Programme at the Alan Turing Institute. My team's research is funded by Rolls-Royce plc, the Lloyd's Register Foundation and UK Research and Innovation."
 intro: 
@@ -13,25 +13,24 @@ feature_row:
   - image_path: bayes.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Bayesian models in engines"
+    title: "Bayesian spatial models from engine sensor measurements"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: dr.jpg
     alt: "placeholder image 2"
-    title: "Dimension reduction in design"
+    title: "Dimension reduction in blade aerodynamic design"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: polynomials.jpg
-    title: "Polynomial approximations for learning"
+    title: "Polynomial approximations for machine learning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: "https://www.youtube.com/embed/ZTzyWkdQMjg"
+  - image_path: <"https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0">
     alt: "placeholder image 2"
     title: "Research overview"
     excerpt: 'Sound interesting? Then check out the video to the left. This is a talk I gave at the Alan Turing Institute on **Data-centric engineering in aeroengines**.'
     url: "#test-link"
-    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
