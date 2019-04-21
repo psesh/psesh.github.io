@@ -12,29 +12,28 @@ intro:
 feature_row:
   - image_path: bayes.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
+    alt: "Aerobayes"
     title: "Bayesian spatial models from engine sensor measurements"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Understanding aeroengine aerothermodynamics by generating spatial fields of temperature and pressure based on sensor measurements."
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: dr.jpg
-    alt: "placeholder image 2"
+    alt: "Subspace-based dimension reduction"
     title: "Dimension reduction in blade aerodynamic design"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for aerodynamic design."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: polynomials.jpg
     title: "Polynomial approximations for machine learning"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Leveraging polynomial approximations via least squares, compressive sensing and numerical integration rules for statistical inference, design guidance and learning."
+    btn_label: "Explore project"
+    btn_class: "btn--primary"
+    url: "www.effective-quadratures.org"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
 
 {% include paginator.html %}

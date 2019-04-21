@@ -11,9 +11,11 @@ This is a talk I gave at the Alan Turing Institute on **data-centric engineering
 <iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
 
 ## Upcoming organized workshops.
-- The Effective Quadratures Workshop 2019, July 1st, 2019. For details, see: [Link.](https://www.effective-quadratures.org/workshop2019); lead organizer.
+- Data-centric materials science and engineering (Organizing committee co-chair) , May 14th-15th, 2019. For details, [click here.](https://www.turing.ac.uk/events/data-centric-materials-science-and-engineering)
 
-- Internation Workshop on Data-Centric Engineering, December 9th-12th, 2019. For details, see[Link.](https://dceworkshop.org); organizing committee co-chair.
+- The Effective Quadratures Workshop 2019 (Lead organizer) July 1st, 2019. For details, [click here.](https://www.effective-quadratures.org/workshop2019)
+
+- Internation Workshop on Data-Centric Engineering (Organizing committee co-chair), December 9th-12th, 2019. For details, [click here.](https://dceworkshop.org)
  
 ## Talks.
 - Ecole Polytechnique Federale de Lausanne, Switzerland. "Aerodynamic design insight in the age of data". February 13th 2019.

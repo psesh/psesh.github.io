@@ -1,5 +1,5 @@
 ---
-title: "The Lab"
+title: "Group"
 layout: single
 excerpt: "Lab details"
 sitemap: true
