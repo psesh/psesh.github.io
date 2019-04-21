@@ -26,7 +26,7 @@ feature_row:
     title: "Polynomial approximations for machine learning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-    <iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
+  - image_path: https://www.youtube.com/embed/ZTzyWkdQMjg
     title: "Research overview"
     excerpt: 'Sound interesting? Then check out the video to the left. This is a talk I gave at the Alan Turing Institute on **Data-centric engineering in aeroengines**.'
     url: "#test-link"
