@@ -8,10 +8,6 @@ permalink: /papers.html
 
 For a full list of my publications, please see my [Google scholar page.](https://scholar.google.co.uk/citations?hl=en&user=DwcnM0MAAAAJ&view_op=list_works)
 
-### Preprints in 2019
-- **Seshadri, P.**, Yuchi, S., Parks, G., (2019) "Dimension reduction via Gaussian ridge functions". Under review. SIAM/ASA JUQ. [Preprint.](https://arxiv.org/pdf/1802.00515.pdf)
-
-
 ### Select journal publications
 - **Seshadri, P.**, Iaccarino, G., Ghisu, T., (2019) "Quadrature strategies for constructing polynomial approximations". In: Canavero F. (eds) Uncertainty Modeling for Engineering Applications. PoliTO Springer Series, Springer, Cham, pp. 1-25. [Paper.](https://link.springer.com/chapter/10.1007/978-3-030-04870-9_1)
 
