@@ -1,5 +1,5 @@
 ---
-title: "Pranay Seshadri"
+title: "Data-Centric Aeronautics"
 layout: splash
 author_profile: false
 header:
@@ -51,5 +51,15 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="center" %}
 
 {% include paginator.html %}
