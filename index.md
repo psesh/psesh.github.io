@@ -1,5 +1,5 @@
 ---
-title: "Data-Centric Aeronautics"
+title: "aerodynamics + machine learning"
 layout: splash
 author_profile: false
 header:
@@ -7,18 +7,18 @@ header:
   overlay_filter: "0.5"
   overlay_image: unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). My team's research is funded by [Rolls-Royce plc](https://www.rolls-royce.com), the [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/) and [UK Research and Innovation](https://www.ukri.org)."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery aerothermodynamics** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical linear algebra to turbomachinery applications. Explore my current projects below'
 feature_row:
   - image_path: unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Bayesian models in engines"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Dimension reduction in design"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
@@ -27,9 +27,10 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
+  <iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
+    title: "Research overview"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
