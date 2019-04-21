@@ -26,8 +26,9 @@ feature_row:
     title: "Polynomial approximations for machine learning"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: <"https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0">
-    alt: "placeholder image 2"
+  - video:
+      id: ZTzyWkdQMjg
+      provider: youtube
     title: "Research overview"
     excerpt: 'Sound interesting? Then check out the video to the left. This is a talk I gave at the Alan Turing Institute on **Data-centric engineering in aeroengines**.'
     url: "#test-link"
@@ -60,5 +61,7 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+{% include video id="ZTzyWkdQMjg" provider="youtube" %}
 
 {% include paginator.html %}
