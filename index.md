@@ -11,17 +11,18 @@ intro:
   - excerpt: 'I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery aerothermodynamics** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical linear algebra to turbomachinery applications. Explore my current projects below.'
 feature_row:
   - image_path: bayes.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    image_caption: "Bayesian"
     alt: "Aerobayes"
     title: "Bayesian spatial models from engine sensor measurements"
     excerpt: "Understanding aeroengine aerothermodynamics by generating spatial fields of temperature and pressure based on sensor measurements."
     btn_label: "Learn more"
     btn_class: "btn--primary"
+    url: "aerobayes"
   - image_path: dr.jpg
     alt: "Subspace-based dimension reduction"
     title: "Dimension reduction in blade aerodynamics"
     excerpt: "Finding lower-dimensional representations of high-dimensional design spaces for the aerodynamic design and manufacturing of aeroengine blades."
-    url: "#test-link"
+    url: "dimension"
     btn_label: "Read more"
     btn_class: "btn--primary"
   - image_path: polynomials.jpg
