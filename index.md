@@ -1,32 +1,67 @@
 ---
-title: "Bio"
-layout: single
-author_profile: true
+title: "Pranay Seshadri"
+layout: splash
+permalink: /splash-page/
+date: 2016-03-23T11:48:41-04:00
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+  actions:
+    - label: "Learn More"
+      url: "/terms/"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+feature_row:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+feature_row2:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Left Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row3:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Right Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
-{% include base_path %}
+{% include feature_row id="intro" type="center" %}
 
-I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). My team's research is funded by [Rolls-Royce plc](https://www.rolls-royce.com), the [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/) and [UK Research and Innovation](https://www.ukri.org).
+{% include feature_row %}
 
-<h3>Research overview</h3>
-I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery aerothermodynamics** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical linear algebra to turbomachinery applications.
+{% include feature_row id="feature_row2" type="left" %}
 
-My current research projects include:
-- Gaussian process models for engine thermodynamic spatial field approximation;
-- Manifold learning for dimension reduction in turbomachinery design;
-- Polynomial techniques for optimization and sensitivity analysis for CFD data-sets.
+{% include feature_row id="feature_row3" type="right" %}
 
-Sound interesting? Then check out the video below:
-
-<iframe src="https://www.youtube.com/embed/ZTzyWkdQMjg" width="560" height="315" frameborder="0"> </iframe>
-
-<h3>Effective Quadratures</h3>
-I am the founder and lead developer of the [Effective Quadratures](https://www.effective-quadratures.org) open-source project. Our goal is to  solve a range of problems in machine learning, uncertainty quantification and optimization using polynomials! The Effective Quadratures 2019 Workshop is on July 1st 2019! [Click here for more details.](https://www.effective-quadratures.org/workshop2019)
-
-<h3>International Workshop on Data-Centric Engineering</h3>
-I am one of the organizing chairs of the [International Workshop on Data-Centric Engineering](https://dceworkshop.org). The aim of this workshop is to put together a unified vision for how data-centric methods can empower engineering research. The workshop will be held at the Massachusetts Institute of Technology from 9-12 of December 2019.
-
-<h3>CLASS</h3>
-I am the director of the Cambridge Linear Algebra Seminar Series (CLASS) 2018. Last year the focus of our seminars was on *Solving Ax=b*; details can be found at the [CLASS website](https://www.cambridge-class.org). Stay tuned for CLASS2019 which will be on *Polynomials, splines and neural networks*.
-
-{% include paginator.html %}
+{% include feature_row id="feature_row4" type="center" %}
