@@ -1,5 +1,5 @@
 ---
-title: "aerodynamics + machine learning"
+title: "turbomachinery + machine learning"
 layout: splash
 author_profile: false
 header:
@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "I'm a postdoctoral fellow at the [Department of Engineering, University of Cambridge](http://www.eng.cam.ac.uk). I am also a Group Leader in the [Data-Centric Engineering Programme at the Alan Turing Institute](https://www.turing.ac.uk/research/research-programmes/data-centric-engineering). My team's research is funded by [Rolls-Royce plc](https://www.rolls-royce.com), the [Lloyd's Register Foundation](https://www.lrfoundation.org.uk/en/) and [UK Research and Innovation](https://www.ukri.org)."
+excerpt: "I'm a postdoctoral fellow at the Department of Engineering, University of Cambridge and also a Group Leader in the Data-Centric Engineering Programme at the Alan Turing Institute. My team's research is funded by Rolls-Royce plc, the Lloyd's Register Foundation UK Research and Innovation."
 intro: 
   - excerpt: 'I undertake research in *data-centric aeronautics*: applying existing, and developing novel, data-driven algorithms in **turbomachinery aerothermodynamics** and **machine learning** for better aerodynamic inference and decision-making. My research interests vary from statistical theory and numerical linear algebra to turbomachinery applications. Explore my current projects below'
 feature_row:
