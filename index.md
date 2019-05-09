@@ -1,4 +1,5 @@
 ---
-I do research.
+layout: default
 ---
 
+{% include paginator.html %}
