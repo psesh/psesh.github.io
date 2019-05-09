@@ -8,7 +8,6 @@
 remote_theme                    : "mmistakes/minimal-mistakes@4.16.3"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-
 # Site Settings
 locale                   : "en"
 title                    : "Pranay Seshadri"
@@ -75,39 +74,6 @@ analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Pranay Seshadri"
-  avatar           : "docs/assets/images/image001.jpg"
-  bio              : "Aerospace Computational Research Scientist"
-  location         : "London, U. K."
-  email            : "ps583@cam.ac.uk"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "psesh"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-
 
 # Reading Files
 include:
