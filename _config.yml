@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Pranay Seshadri"
-  avatar           : "image001.jpg"
+  avatar           : "docs/assets/images/image001.jpg"
   bio              : "Aerospace Computational Research Scientist"
   location         : "London, U. K."
   email            : "ps583@cam.ac.uk"
