@@ -1,100 +1,120 @@
-<html>
-<head>
-<style>
-    img {
-        float: left;
-        border-radius: 8px;
-        }
-    div {
-        padding: 8px;
-    }
-    .clearfix {
-        overflow: auto;
-    }
-    p.normal {
-    font-weight: normal;
-    }
-    p.light {
-    font-weight: lighter;
-    }
-    p.thick {
-    font-weight: bold;
-    }
-    p.thicker {
-    font-weight: 900;
-    }
-    body {background-color: white;
-          color: black;}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<style type="text/css" media="all">
+body {font-family: 'Optima', helvetica,Arial,sans-serif;}
+a:link, a:visited, a:active {text-decoration:none}
+div.container{width:65%; margin:1%; line-height:140%;}
+div.right{float:right;width:150px; margin:1em; padding:1em;}
+div.content{margin-left:1%; padding:1em;}
 </style>
-<title> Pranay Seshadri</title>
+
+<title>Pranay Seshadri</title>
+<meta name="description" content="Academic page of Pranay Seshadri. Research in design and machine learning for blades.">
+<meta name="keywords" content="Automatic machine learning, bayesian nonparametrics, Gaussian processes, Variational inference">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+<script type="text/javascript" async="" src="www.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+    function trackOutboundLink(link, category, action) {
+        try {
+        _gaq.push(['_trackEvent', category , action]);
+        } catch(err){}
+    }
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-866476-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<style type="text/css">
+  div.foo p {
+margin-bottom:0.0em;
+margin-top:0.0em;
+}
+</style>
+
 </head>
 <body>
+
+
+<div class="content">
+<h1 style="text-align: left;">Pranay Seshadri</h1>
+<div class="container">
+<div class="left"><img alt="" width="250px" src="./pictures/me.jpg">
+</div>
+<p>I am a Research Fellow in the Department of Mathematics (Statistics Section) at <a href="https://www.imperial.ac.uk">Imperial College London</a>, working under <a href="http://wwwf.imperial.ac.uk/~aduncan/">Andrew Duncan</a>. My research is focused on designing better rotating blades---that appear in jet engines, gas turbines, wind turbines and electric fans---using a variety of statistical methods. These include:
+  <ul>
+  <li>Gaussian processes with bespoke physics-informed kernels.</li>
+  <li>Machine learning algorithms for data-driven dimension reduction.</li>
+  <li>Polynomial methods for uncertainty quantification and data science.</li>
+</ul>
+</p>
+The engineering challenges I am currently solving are:
+<ul>
+<li>How do we compute aerothermal quantities (temperatures, pressures, efficiencies) from sparse measurements?</li>
+<li>How do we develop new physics-based rules for blade design and manfacturing (nominal and tolerances)?</li>
+<li>How do we speed up existing numerical simulation workflows (CFD, FEM) while offering uncertainty estimates?</li>
+<li>How can virtual reality alter the way we design and interact with our computational designs?</li>
+</ul>
+Prior to my current job, I was a Research Associate and a PhD student at the <a href="https://www-edc.eng.cam.ac.uk">Engineering Design Centre</a> group with <a href="https://www-edc.eng.cam.ac.uk/people/gtp10.html">Geoff Parks</a>. During my PhD studies, I spent some time in <a href="http://web.stanford.edu/group/uq/">Stanford's Uncertainty Quantification Lab</a>, working with <a href="https://profiles.stanford.edu/gianluca-iaccarino">Gianluca Iaccarino</a> and <a href="https://www.colorado.edu/cs/paul-constantine">Paul Constantine</a>, and with Shahrokh Shahpar at <a href="https://www.rolls-royce.com">Rolls-Royce</a>. My undergraduate and Masters-level graduate education was in aeronautics, the latter with a focus on helicopter (once again blades) and flapping wing (thin plate blades if you will) aeromechanics. My MSc advisors were <a href="https://inderjitchopra.umd.edu">Inderjit Chopra</a> and <a href="https://engineering.tamu.edu/aerospace/profiles/mbenedict.html">Moble Benedict</a> at the <a href="https://www.umd.edu">University of Maryland, College Park</a>. <br>
 <br>
-<div class="w3-container">
-    
-<p class="thick">Contact.</p>
-Dr Pranay Seshadri <br>
-Research Fellow, Department of Mathematics (Statistics Section), Imperial College London. <br>
-Group Leader (Aerospace), Data-Centric Engineering, The Alan Turing Institute. <br>
-p.seshadri @ imperial.ac.uk | pseshadri @ turing.ac.uk <br>
 
-<p class="thick">Research directions.</p>
-<ul>
-<li> <b>Geometry and performance visualization in virtual reality for design. </b> <br>
-Key words: <i>digital twin, virtual reality, computer-aided design, human-computer interaction, visual analytics, immersive analytics.</i>
+I am the lead developer and founder of <a href="https://www.effective-quadratures.org">Effective Quadratures</a>. I am also the Group Leader in Aeronautics in the Data-Centric Engineering Programme at <a href="https://www.turing.ac.uk">The Alan Turing Institute</a>.
+</p>
+<table style="width:85%">
+  <tr >
 
-<li> <b>Improved aerothermal understanding from sparse measurements.</b> <br>
-Key words: <i>Bayesian performance assessments, spatial field approximation, metrology, anomaly detection, machine learning.</i>
-
-<li> <b>Dimension reduction in simulation, design and manufacturing.</b> <br>
-Key words: <i>transonic fans, probes, active subspace performance maps, photogrammetry, pedigree design rules, ridge-enhanced trust-region optimization.</i>
+Current group:<ul>
+ <li><a href="https://www.turing.ac.uk/people/researchers/ashley-scillitoe">Ashley Scillitoe</a></li>
+   <li><a href="https://ncywong.github.io">Chu Yui Wong</a> (co-advised with Geoff Parks)</li>
+  <li><a href="https://www-edc.eng.cam.ac.uk/people/jg847.html">James Gross</a> (co-advised with Geoff Parks)</li>
+  <li><a href="https://www-edc.eng.cam.ac.uk/people/skt40.html">Slawomir Konrad Tadeja</a> (co-advised with Per Ola Kristensson)</li>
 </ul>
+</td>
+  </tr>
+</table>
 
-<p class="thick">Application areas of interest.</p>
-aero-engines, fans, compressors, turbines, jets, electric propulsion, urban air taxis.<br>
 
-<p class="thick">Latest preprints.</p>
-<ul>
-    <li><a href="https://arxiv.org/pdf/1907.07037v1.pdf">Embedded ridge approximations</a> [submitted to SIAM/ASA JUQ]</li>
-    <li> <a href="https://arxiv.org/pdf/1907.08113v1.pdf">Higher order sensitivities via polynomial least squares</a> [submitted to RESS]</li>
-    <li> <a href="https://arxiv.org/pdf/1910.09030.pdf"> Multipoint fan design with dimension reduction</a> [submitted to The Aeronautical Journal]</li>
-    <li> <a href="https://arxiv.org/pdf/1910.09800.pdf">Virtual reality for aeronautic design and digital twinning</a> [submitted to The Aeronautical Journal]</li>
-</ul>
+<div class="foo">
 
-<p class="thick">Select publications.</p>
-<ul>
-    <li> <a href="https://epubs.siam.org/doi/abs/10.1137/18M1168571">Gaussian ridge functions</a> [SIAM/ASA JUQ]</li>
-    <li> <a href="https://asmedigitalcollection.asme.org/turbomachinery/article/doi/10.1115/1.4045781/1072169/Spatial-Flow-Field-Approximation-Using-Few">Frequentist strategies for aero-engine spatial field approximation Part I</a> [ASME JoT]</li>
-    <li> <a href="https://asmedigitalcollection.asme.org/turbomachinery/article/doi/10.1115/1.4045782/1072170/Spatial-Flow-Field-Approximation-Using-Few">Frequentist strategies for aero-engine spatial field approximation Part II</a> [ASME JoT]</li>
-    <li> <a href="https://www.sciencedirect.com/science/article/pii/S0045782516300883">Design optimization under uncertainty</a> [CMAME]</li>
-    <li> <a href="https://asmedigitalcollection.asme.org/turbomachinery/article/140/4/041003/378904/Turbomachinery-Active-Subspace-Performance-Maps">Turbomachinery active subspace performance maps</a> [ASME JoT]</li>
-    <li> <a href="https://arc.aiaa.org/doi/full/10.2514/1.B35039">NASA Rotor 37 under leakage uncertainties</a> [AIAA JPP]</li>
-    <li> <a href="https://epubs.siam.org/doi/pdf/10.1137/16M1057668">Parsimonious polynomial approximations</a> [SIAM/ASA JUQ]</li>
-    <li> <a href="https://iopscience.iop.org/article/10.1088/1748-3182/7/3/036017/meta">Computer-aided design (CAD) kinematics</a> [Bioinspiration & Biomimetics]</li>
-</ul>
+  <H2><a id=preprints>Publications (work in progress)</a></H2>
+  <table border="0" cellspacing="4" cellpadding="2">
+See my <a href="https://scholar.google.co.uk/citations?user=DwcnM0MAAAAJ&hl=en">Google scholar</a> page for a complete listing.
+<td valign="top">
+    <a href="https://arxiv.org/pdf/1907.07037.pdf">
+            <img src="pictures/gauss.png" alt="Link" width="140px">
+    </a>
+</td>
+<td valign="top">
+    <b>Dimension reduction via Gaussian ridge functions</b>
+    <p>
+We present a new algorithm that approximates what we call a Gaussian ridge function---the posterior mean of a Gaussian process on a dimension-reducing subspace---suitable for both regression and approximation problems. To compute this subspace we develop an iterative algorithm that optimizes over the Stiefel manifold to compute the subspace, followed by an optimization of the hyperparameters of the Gaussian process. We demonstrate the utility of the algorithm on two analytical functions, where we obtain near exact ridge recovery, and a turbomachinery case study, where we compare the efficacy of our approach with three well-known sufficient dimension reduction methods: SIR, SAVE, CR. The comparisons motivate the use of the posterior variance as a heuristic for identifying the suitability of a dimension-reducing subspace.
+    </p>
+    <a href="https://www.psesh.com">Pranay Seshadri</a>,
+    <a href="https://www.isye.gatech.edu/users/shaowu-yuchi">Shaowu Yuchi</a>
+    <a href="https://www-edc.eng.cam.ac.uk/people/gtp10.html">Geoffrey Parks</a>
+    <br>
+        <em>SIAM/ASA Journal on Uncertainty Quantification</em>, 2019.
+    <br>
+    <a href="https://arxiv.org/pdf/1802.00515.pdf">pre-print</a> | <a href="https://epubs.siam.org/doi/abs/10.1137/18M1168571?journalCode=sjuqa3">paper</a> | <a href="https://github.com/psesh/Gaussian-Ridges">code</a>
+</td>
+</tr>
 
-<p class="thick">Team.</p>
-Ashley Scillitoe (Postdoctoral fellow): Physics informed machine learning in computational fluid dynamics.<br>
-Chun Yui Wong (PhD student): Embedded ridge approximations for improved computational aerodynamic inference.<br>
-James Gross (PhD student): Techniques in polynomial subspace projections for design optimisation. <br>
-Slawomir Konrad Tadeja (PhD student, co-advised by Per Ola Kristensson): Digital twinning and visual industrial analytics of aeroengines in virtual reality. <br>
-
-<p class="thick">Former team members.</p>
-Joe Zhou (Undergraduate student): High-dimensional quadrature rules.<br>
-Shaowu Yuchi (Undergraduate student): Data-driven dimension reduction. <br>
-
-<p class="thick">Software.</p>
-<a href="https://www.effective-quadratures.org">Effective Quadratures</a>: A multi-purpose open-source library for sensitivity analysis, uncertainty assessments, dimension reduction and design optimization for simulation-centric models. <br>
-
-<p class="thick">Presentations, publications and videos.</p>
-See <a href="https://speakerdeck.com/psesh">Speakerdeck</a> for slides and <a href="https://scholar.google.co.uk/citations?user=DwcnM0MAAAAJ&hl=en">Google Scholar</a> for publications. If you are really interested in my research, check out the videos below. The first one is a high-level research talk, while the other two are initial results of my team's ongoing virtual reality work.  <br>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZTzyWkdQMjg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wkIBGLJ2jSs?start=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6vMrixVY1zk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    <br>
 
 </div>
-</body>
-</html>
+</div>
+</div>
+
+</body></html>
